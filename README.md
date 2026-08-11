@@ -7,4 +7,4 @@ Ingame GUI for PC Players - Gunlib for PC is a WIP!
 Holdable In-Game Menu
 Variety from Movement Mods like Platforms, all the way to OP Mods like Grey Screen All!
 
-# Download Today!
+# Download Now for Free!
